@@ -37,28 +37,6 @@
 
 <br/>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=SailiDhokchaule&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-<br/>
-
-## 🐍 Contribution Snake Game
-
-<div align="center">
-
-![Snake animation](https://github.com/SailiDhokchaule/SailiDhokchaule/blob/output/github-contribution-grid-snake.svg)
-
-![Contribution](https://activity-graph.herokuapp.com/graph?username=SailiDhokchaule&theme=react-dark&hide_border=true&area=true)
-
-</div>
-
-<br/>
-
 ## 🛠️ Technical Proficiency
 
 <div align="center">
